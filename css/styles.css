@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  background: #EC7000;
+  text-align: center;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.section-project {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+footer {
+  padding: 50px;
+}
